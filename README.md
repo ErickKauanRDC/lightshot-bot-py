@@ -7,5 +7,5 @@ O resultado disso pode ser visto nessa conta: <a href="https://twitter.com/Light
 * Python
 * Selenium/Webdriver
 * Pillow
-
+<button>Click</button>
 ### Observação: O não funciona caso clonado, pois como ele loga na conta do twitter não posso deixar a senha contida no arquivo, mas caso você queira testa-lo na parte do código aonde esta comentado "login" e "senha" você pode utilizar alguma conta propria para fins de teste.
